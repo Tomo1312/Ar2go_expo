@@ -1,0 +1,21 @@
+export const colors = {
+  buttons: "#ff8c52",
+  orange: "#ff8c52",
+  grey1: "#43484d",
+  grey2: "#5e6977",
+  grey3: "#86939e",
+  grey4: "#bdc6cf",
+  grey5: "#e1e8ee",
+  CardComment: "#86939e",
+  cardbackgroud: "white",
+  white: "#FFFFFF",
+  black: "#000000",
+  second: "#67445a",
+  main: "#00a997",
+  textBlue: "#1152FD",
+  undefined: "#FF0000",
+  sculptures:"#31FF19",
+  architecture: "#DAD400",
+  monuments: "#003AD4",
+};
+export const statusBarHeight = 24;
